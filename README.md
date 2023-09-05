@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hello world 👋
 
-<!--
-**aracelymichel/aracelymichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Latin American Society in Astronautics Aerospace and Space Exploration.
+- 🌱 I’m currently learning front programming.
+- 👯 I’m looking to collaborate an educational robotics project.
+- 🤔 I’m looking for help with my electronic circuit homework.
+- 💬 Ask me about space exploration.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: she
+- ⚡ Fun fact: I wear socks with ears
+
+
+# Markdown
+
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+
+# Estilos de Texto
+**Palabra en negrita**
+
+*Palabra en cursiva*
+
+~Este texto está equivocado~
+
+Mi primera linea de codigo en Python:
+```
+printf("Hola, mundo")
+
+### Listas
+
+- JavaScript
+*Python
++Goland
++
+
+El markdown lo aprendí en [Tecnolochicas(https://tecnolochicas.mx/)]
